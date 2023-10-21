@@ -1,4 +1,4 @@
-# Chat-Bots for with RNN
+# Chat-Bots with RNN
 
 ## Overview
 The Chatbot for Story-Based Question Answering is an intelligent conversational agent designed to answer questions based on stories or textual passages provided to it. This project leverages Natural Language Processing (NLP) techniques and a multi-layer Recurrent Neural Network (RNN) to generate context-aware responses.
