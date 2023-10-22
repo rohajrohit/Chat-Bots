@@ -14,7 +14,7 @@ Context Preservation: The chatbot maintains context across interactions, providi
 ## Screenshot
 Here I've attached a screenshot from my project.
 <div align='center'>
-    <img src='Screenshot (356).png'>
+    <img src='chatbot.png'>
 </div> 
 
 ## How It Works
