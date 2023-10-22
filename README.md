@@ -11,6 +11,12 @@ Multi-Layer RNN: The model employs a multi-layer RNN architecture to handle sequ
 Question Answering: The chatbot can answer a wide range of questions related to the provided stories.
 Context Preservation: The chatbot maintains context across interactions, providing contextually relevant responses.
 
+## Screenshot
+Here I've attached a screenshot from my project.
+<div align='center'>
+    <img src='Screenshot (356).png'>
+</div> 
+
 ## How It Works
 Story Processing: The chatbot takes a story or passage as input and preprocesses it, converting it into an input memory representation.
 Question Input: When a user asks a question, the chatbot processes the question and combines it with the input memory representation to create a context-aware query.
